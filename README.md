@@ -14,4 +14,4 @@
 12. Users force themselves to be liquidatable
 13. positions in profit can still be liquidatable
 
-## NOTICE this readme will be updated with all the vulnerabilities related to liquidations 
+## NOTICE All the scenarios above will have a vivid explanation
