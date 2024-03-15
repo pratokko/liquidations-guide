@@ -20,5 +20,6 @@
 
 12. Users force themselves to be liquidatable
 13. positions in profit can still be liquidatable
+14. ensure no reverts during liquidation
 
 ## NOTICE All the scenarios above will have a vivid explanation
